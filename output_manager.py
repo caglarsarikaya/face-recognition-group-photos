@@ -4,7 +4,7 @@ import shutil
 class OutputManager:
     """Handles output folder creation and file copying"""
     
-    def __init__(self, output_dir='output'):
+    def __init__(self, output_dir='data/output'):
         self.output_dir = output_dir
     
     def create_output_folders(self, reference_labels):

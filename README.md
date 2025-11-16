@@ -82,7 +82,7 @@ The system uses a **unified approach** with InsightFace, which means:
 1. **Clone or download the project**
    ```bash
    git clone <repository-url>
-   cd face-detection
+   cd face-recognition-group-photos
    ```
 
 2. **Create a virtual environment (recommended)**
